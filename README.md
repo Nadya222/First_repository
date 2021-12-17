@@ -1,7 +1,11 @@
-#ТЗ3
-##ФИО: Чернявская Надежда
-##Программа _math_func.py_
+ТЗ3
+
+ФИО: Чернявская Надежда
+
+Программа _math_func.py_
+
 Считываем числа из файла _math_func.txt_ и записываем их в список под названием _data_
+
 ```python
 data = []
 with open("math_func.txt", "r") as file:
@@ -108,14 +112,18 @@ class TestDataProcessing(unittest.TestCase):
         assert minimum([-7, -19, 0]) == -19
         assert minimum([0, 5, -20, -25.5]) == -25.5
 ```
+
 В качестве дополнительного теста, проверим работу функции минимума, когда в файле встречаются не только цифры.
+
 ```python
     def test_not_number(self):
         test_case = ['aaa', 4, 2.4, 'abcd']
         with pytest.raises(ValueError) as err:
             minimum(test_case)
 ```
+
 Для теста проверки скорости работы программы при увеличении размера входного файла возьмем два списка, пропорциональных по длине. Посчитаем длительности выполнения программы и затем сравним значения.
+
 ```python
     def test_time1(self):
         start_time1 = timer()
