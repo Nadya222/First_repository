@@ -1,0 +1,20 @@
+name: Continuous Integration
+on: [push]
+jobs:
+  build:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                python-version: 3.6
+        steps:
+            - uses: actions/checkout@v2
+            - name: S
+              uses: actions/setup-python@v2
+              with:
+                python-version: ${{ matrix.python-version }}
+                architecture: x64
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+              run: pip install pytest
+            - name: Run Test
+              run: python -m unittest discover .
