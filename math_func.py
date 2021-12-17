@@ -1,8 +1,9 @@
-data = []
-with open("math_func.txt", "r") as file:
-    for line in file:
-        data.extend([float(x) for x in line.split()])
-#print(data)
+def read_file(filename):
+    data = []
+    with open(filename, "r") as file:
+        for line in file:
+            data.extend([float(x) for x in line.split()])
+    #print(data)
 
 def add(data):
     res = 0
