@@ -49,6 +49,3 @@ class TestDataProcessing(unittest.TestCase):
         end_time2 = timer()
         duration2 = end_time2 - start_time2
         assert duration2 <= duration1 * 12
-        
-if __name__ == '__main__':
-    unittest.main()
