@@ -4,8 +4,8 @@ from math_func import add, product, maximum, minimum
 from timeit import default_timer as timer
 class TestDataProcessing(unittest.TestCase):
     def test_add(self):
-        assert add([2, 3]) == 5
-        assert add([7, 12]) == 19
+        self.assertEqual(self.add([2, 3]), 5)
+        self.assertEqual(self.add([7, 12]), 19)
 
     def test_product(self):
         assert product([1, 15]) == 15
