@@ -1,3 +1,6 @@
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/SvetlanaYusupova/TZ-3/.github/workflows/2.yml)
+
+
 ТЗ3
 
 ФИО: Чернявская Надежда
