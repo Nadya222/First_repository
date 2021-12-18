@@ -31,7 +31,7 @@ jobs:
 #                   See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
             - name : notification 
               if : cancelled () == false 
-              uses : test_results_from_github/action-telegram@v1.1 
+              uses : actions/setup-dotnet@v1 
 #               uses : test_results_from_github/action-telegram@v1.1 
               with :
                  botToken : $ {{secrets.TgToken}} 
