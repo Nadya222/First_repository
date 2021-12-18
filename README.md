@@ -2,6 +2,7 @@
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/actions)
 
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/actions/run)
 
 ТЗ3
 
