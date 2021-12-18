@@ -1,5 +1,5 @@
+data = []
 def read_file(filename):
-    data = []
     with open(filename, "r") as file:
         for line in file:
             data.extend([float(x) for x in line.split()])
