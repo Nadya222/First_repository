@@ -34,5 +34,5 @@ jobs:
               uses : test_results_from_github/action-telegram@v1.1 
 #               uses : test_results_from_github/action-telegram@v1.1 
               with :
-                 botToken : $ {{5040526577:AAHeZsRpUf_WMKHOBlkVlaLBHOkjv5FQwmY}} 
-                 chatId : $ {{secrets.405175378}} 
+                 botToken : $ {{secrets.TgToken}} 
+                 chatId : $ {{secrets.TgId}} 
