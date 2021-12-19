@@ -1,9 +1,5 @@
 [![Continuous Integration](https://github.com/Nadya222/First_repository/actions/workflows/2.yml/badge.svg)](https://github.com/Nadya222/First_repository/actions/workflows/2.yml)
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/blob/main/.github/workflows/2.yml)
-
-[<img src="https://klisl.com/images/title/actions1.jpg5" width="60"/>](https://github.com/Nadya222/First_repository/actions)
-
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/actions)
 
 ТЗ3
