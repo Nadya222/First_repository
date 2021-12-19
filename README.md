@@ -1,13 +1,12 @@
+## ТЗ3
+
+### ФИО: Чернявская Надежда
+
 [![Continuous Integration](https://github.com/Nadya222/First_repository/actions/workflows/2.yml/badge.svg)](https://github.com/Nadya222/First_repository/actions/workflows/2.yml)
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/actions)
 
-ТЗ3
-
-ФИО: Чернявская Надежда
-
-Программа _math_func.py_
-
+#### Программа _math_func.py_
 Считываем числа из файла _math_func.txt_ и записываем их в список под названием _data_
 
 ```python
@@ -87,7 +86,7 @@ def incorrect_data_size(data):
         return "OverflowError"
 ```
 ***
-Тестированние _test_math_func.py_
+#### Тестированние _test_math_func.py_
 С помощью assert проверим работу четырех функций.
 ```python
 import unittest
