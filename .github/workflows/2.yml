@@ -17,5 +17,5 @@ jobs:
             - name: Run Test
               run: pip install pytest
             - name: Run2
-              run: python -m unittest discover .
+              
 
