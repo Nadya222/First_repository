@@ -2,7 +2,7 @@
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/blob/main/.github/workflows/2.yml)
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fklisl.com%2Findividual_actions.html&psig=AOvVaw39G0tRSffQ9FaRAiQdF9yI&ust=1640019765796000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCNmfGr8PQCFQAAAAAdAAAAABAD" width="25"/>](https://github.com/Nadya222/First_repository/actions)
+[<img src="https://klisl.com/images/title/actions1.jpg5"/>](https://github.com/Nadya222/First_repository/actions)
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Nadya222/First_repository/actions)
 
